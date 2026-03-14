@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
 import java.lang.*;
-public class BenchmarkJava {
+//public class BenchmarkJava {
 
     /**
      * Runs a little benchmarking script in Java, and outputs the number of milliseconds.
@@ -64,4 +64,4 @@ public class BenchmarkJava {
 
 
     }
-}
+//}

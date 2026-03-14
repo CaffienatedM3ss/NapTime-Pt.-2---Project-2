@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.concurrent.Callable;
 import java.lang.*;
 import java.text.DecimalFormat;
-public class SpeedGrader {
+//public class SpeedGrader {
 
 
     /**
@@ -141,4 +141,4 @@ public class SpeedGrader {
 
         }
     }
-}
+//}
